@@ -1,9 +1,18 @@
 ### Olá sou Jorge Henrique👋
 
+Sou um Analista de Testes e Qualidade de Software dedicado e apaixonado por assegurar a excelência na entrega de produtos de alta qualidade. 
+Com uma sólida experiência na área, meu foco principal é garantir que os sistemas e aplicativos atendam aos mais altos padrões de qualidade e desempenho.
+Como Analista de Testes e Qualidade de Software na Empresa Orizon, desempenhei um papel fundamental na garantia da qualidade de nossos produtos. Minhas responsabilidades incluíam:
+
+- Identificar e definir os testes necessários para cada projeto, levando em consideração requisitos específicos e casos de uso.
+- Monitorar de perto o processo de teste em cada ciclo, assegurando que todos os casos de teste sejam executados e documentados adequadamente.
+- Avaliar a qualidade geral dos sistemas e aplicativos, identificando e relatando problemas e coordenando com a equipe de desenvolvimento para correções.
+- Garantir a qualidade dos componentes produzidos, utilizando técnicas especializadas em testes de programas e sistemas.
+- Utilizar ferramentas como SoapUI, Octane, Intellij IDEA, GitHub, DBeaver, Apache JMeter, Figma, Jenkins, Jira e Zephyr Scale para aprimorar eficiência e precisão nos testes.
+
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-henrique-vieira-da-silva-796510123)
 
-
-![rique429 GitHub stats](https://github-readme-stats.vercel.app/api?username=rique429&show_icons=true&theme=radical)
 
 
 ### Tecnologias Utilizadas no trabalho atual
