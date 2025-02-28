@@ -1,4 +1,4 @@
-### Olá Eu sou so Jorge Henrique👋
+### Olá sou Jorge Henrique👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-henrique-vieira-da-silva-796510123)
 
