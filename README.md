@@ -29,6 +29,6 @@ Neste repositório, você verá:
 
 - 💼 [LinkedIn](linkedin.com/in/jorge-henrique-vieira-da-silva-796510123)
 - ✉️ [Email](mailto:jorgehv.silva@outlook.com)
-- 📚 [Curriculum](https://github.com/davidtmasin/davidtmasin/blob/main/curriculum.md)
+- 📚 [Curriculum]
 
 
